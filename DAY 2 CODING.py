@@ -11,4 +11,4 @@ else :
      print('E')
 print('nilai yang tidak termasuk :')
 
-#cek
+#cek tambahdsfsdf

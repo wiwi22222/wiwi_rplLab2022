@@ -5,3 +5,7 @@ TB = 163.0
 BB = 51
 menikah = 'false'
 print('nama_lengkap :', nama_depan + nama_belakang)
+print('umur :',umur)
+print('TB :',TB)
+print('BB :',BB)
+print('menikah :',menikah)

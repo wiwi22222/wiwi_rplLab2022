@@ -1,0 +1,10 @@
+   
+nama_depan=(input("masukan nama :"))
+nama_belakang=(input("masukan nama :"))
+nim=(input("masukan nim :"))
+kelas=(input("masukan kelas :"))
+fakultas=(input("masukan nama fakultas :"))
+print(nama_depan,nama_belakang)
+print(nim)
+print(kelas)
+print(fakultas)
